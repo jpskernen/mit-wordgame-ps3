@@ -19,3 +19,5 @@ Letters are scored as in Scrabble; A is worth 1, B is worth 3...
 ###
 I do not know the value of letters, but luckily they have defined a dictionary SCRABBLE_LETTER_VALUES
 ###
+
+See https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/assignments/ for examples and the instructions on how to write this program. 
